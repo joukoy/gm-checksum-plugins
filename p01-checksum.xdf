@@ -1,0 +1,22 @@
+<!-- Written 04/19/2020 09:27:09 -->
+<XDFFORMAT version="1.60">
+  <XDFHEADER>
+    <flags>0x1</flags>
+    <deftitle>gm-p01-checksum</deftitle>
+    <description></description>
+    <author>joukoy@gmail.com</author>
+    <BASEOFFSET offset="0" subtract="0" />
+    <DEFAULTS datasizeinbits="8" sigdigits="2" outputtype="1" signed="0" lsbfirst="0" float="0" />
+    <REGION type="0xFFFFFFFF" startaddress="0x0" size="0x80000" regionflags="0x0" name="Binary File" desc="This region describes the bin file edited by this XDF" />
+  </XDFHEADER>
+  <XDFCHECKSUM uniqueid="0x6548">
+    <title>P01 Checksum</title>
+    <REGION>
+      <pluginmoduleid>a8d1fdd7-d985-4b09-9979-2735b69cc9a6</pluginmoduleid>
+      <datastart>0x0</datastart>
+      <dataend>0x80000</dataend>
+      <storeaddress>0x0</storeaddress>
+      <calculationmethod>0x0</calculationmethod>
+    </REGION>
+  </XDFCHECKSUM>
+</XDFFORMAT>

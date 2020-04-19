@@ -1,0 +1,34 @@
+<!-- Written 04/16/2020 16:12:30 -->
+<XDFFORMAT version="1.60">
+  <XDFHEADER>
+    <flags>0x1</flags>
+    <fileversion>0.1</fileversion>
+    <deftitle>GM e38</deftitle>
+    <description></description>
+    <author>joukoy@gmail.com</author>
+    <BASEOFFSET offset="0" subtract="0" />
+    <DEFAULTS datasizeinbits="8" sigdigits="2" outputtype="1" signed="0" lsbfirst="0" float="0" />
+    <REGION type="0xFFFFFFFF" startaddress="0x0" size="0x1FFFFF" regionflags="0x0" name="Binary File" desc="This region describes the bin file edited by this XDF" />
+    <CATEGORY index="0x0" name="Engine" />
+  </XDFHEADER>
+  <XDFCHECKSUM uniqueid="0x5C06">
+    <title>Checksum 1</title>
+    <REGION>
+      <pluginmoduleid>cbebdc26-cd53-460b-8d61-898d18dca53f</pluginmoduleid>
+      <datastart>0x0</datastart>
+      <dataend>0x1FFFFF</dataend>
+      <storeaddress>0x0</storeaddress>
+      <calculationmethod>0x0</calculationmethod>
+    </REGION>
+  </XDFCHECKSUM>
+  <XDFCHECKSUM uniqueid="0x1857">
+    <title>Checksum 2, CVN</title>
+    <REGION>
+      <pluginmoduleid>cbebdc26-cd53-460b-8d61-898d18dca53f</pluginmoduleid>
+      <datastart>0x0</datastart>
+      <dataend>0x1FFFFF</dataend>
+      <storeaddress>0x0</storeaddress>
+      <calculationmethod>0x1</calculationmethod>
+    </REGION>
+  </XDFCHECKSUM>
+</XDFFORMAT>
