@@ -1,9 +1,9 @@
-<!-- Written 04/16/2020 16:12:30 -->
+<!-- Written 04/20/2020 12:00:48 -->
 <XDFFORMAT version="1.60">
   <XDFHEADER>
     <flags>0x1</flags>
     <fileversion>0.1</fileversion>
-    <deftitle>GM e38</deftitle>
+    <deftitle>GM e38/e67</deftitle>
     <description></description>
     <author>joukoy@gmail.com</author>
     <BASEOFFSET offset="0" subtract="0" />
@@ -19,16 +19,6 @@
       <dataend>0x1FFFFF</dataend>
       <storeaddress>0x0</storeaddress>
       <calculationmethod>0x0</calculationmethod>
-    </REGION>
-  </XDFCHECKSUM>
-  <XDFCHECKSUM uniqueid="0x1857">
-    <title>Checksum 2, CVN</title>
-    <REGION>
-      <pluginmoduleid>cbebdc26-cd53-460b-8d61-898d18dca53f</pluginmoduleid>
-      <datastart>0x0</datastart>
-      <dataend>0x1FFFFF</dataend>
-      <storeaddress>0x0</storeaddress>
-      <calculationmethod>0x1</calculationmethod>
     </REGION>
   </XDFCHECKSUM>
 </XDFFORMAT>
