@@ -10,5 +10,7 @@ Reads checksum address information from file, no need to specify any address, on
 
 See example xdf files
 
-Creator: joukoy@gmail.com
-Contributor: kur4o@pcmhacking.net
+# Creator/Programmer
+joukoy@gmail.com
+# Contributor/GM file specialist
+kur4o@pcmhacking.net
