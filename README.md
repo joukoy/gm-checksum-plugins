@@ -1,4 +1,9 @@
 # gm-checksum-plugins
+
+NOTE!
+Ask from XDF file creator, what plugin is used!
+Most "LS" XDF files are using another checksum plugin, not my P01/P59 !!
+
 Tunerpro checksum plugins for GM PCM files
 
 Beta software, use at your own risk.
